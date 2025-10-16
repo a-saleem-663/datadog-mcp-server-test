@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 import { McpServer } from "@modelcontextprotocols/sdk/server/mcp.js";
-import { StdioServerTransport } from "@modelcontextprotocol/sdk/server/stdio.js";
+import { StdioServerTransport } from "@modelconstextprotocol/sdk/server/stdio.js";
 import dotenv from "dotenv";
 import minimist from "minimist";
 import { z } from "zod";
