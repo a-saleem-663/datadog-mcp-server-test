@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-// for demo , hello this is for the demo
+
 import { McpServer } from "@modelcontextprotocols/sdk/server/mcp.js";
 import { StdioServerTransport } from "@modelconstextprotocol/sdk/server/stdio.js";
 import dotenv from "dotenv";
